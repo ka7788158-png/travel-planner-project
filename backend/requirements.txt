@@ -1,0 +1,18 @@
+# --- Web Framework & Server ---
+fastapi
+uvicorn
+pydantic
+httpx
+
+# --- AI & Agent Framework ---
+langchain
+langchain-community
+langchain-mistralai
+langgraph
+
+# --- External API Tools ---
+tavily-python
+requests
+
+# --- Environment Variables ---
+python-dotenv
