@@ -3,7 +3,7 @@ import requests
 from datetime import date, timedelta
 
 # FastAPI Backend URL
-API_BASE_URL = "http://127.0.0.1:8000"
+API_BASE_URL = "https://travel-planner-project.onrender.com"
 
 # --- Page Configuration ---
 st.set_page_config(page_title="AI Travel Planner", page_icon="🌍", layout="wide")
